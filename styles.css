@@ -1,0 +1,46 @@
+
+#img-div, #title {
+    text-align: center;
+}
+
+#title{
+    font-size: 1.5em;
+}
+#image{
+    width="1000";
+    height="800";
+    max-width="90%";
+    max-height="800";
+ display: block;
+ margin: 0 auto;
+ 
+}
+
+#img-div{
+    background-color: white;
+    padding: 5px;
+    margin: 30px;
+}
+#img-caption{
+    font-style: italic;
+}
+
+body{
+    display:flex;
+    align-content: center;
+}
+#main{
+    background-color: azure;
+}
+#tribute-link{
+    font-weight: bold;
+}
+
+fieldset{
+    margin: 50px auto;
+    border: none;
+    font-size: larger;
+    width: fit-content;
+    align-self: center;
+
+}
